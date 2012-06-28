@@ -349,7 +349,6 @@
 		9597F995125D17E400E17B47 /* iTunesArtwork in Resources */ = {isa = PBXBuildFile; fileRef = 9597F994125D17E400E17B47 /* iTunesArtwork */; };
 		959BB88B13D974D2004CB203 /* libziparchive.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 01BC07B413C755610077CE63 /* libziparchive.a */; };
 		959BB88C13D974D8004CB203 /* libziparchive.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 01BC07B413C755610077CE63 /* libziparchive.a */; };
-		95A965D5157FC6FE00925468 /* FastPdfKitFramework.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 951AE31514029A6F0025DA52 /* FastPdfKitFramework.xcconfig */; };
 		95B8BD6013CCA59800195F0F /* Manual.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 95B8BD5E13CCA59800195F0F /* Manual.pdf */; };
 		95B8BD6113CCA59800195F0F /* ManualCrypt.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 95B8BD5F13CCA59800195F0F /* ManualCrypt.pdf */; };
 		95B9C57D15110E6C00411AF6 /* pause@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 95B9C57C15110E6C00411AF6 /* pause@2x.png */; };
@@ -1951,7 +1950,6 @@
 			files = (
 				958A81E81402804700837C82 /* FPKReaderBundle.bundle in Resources */,
 				958CBAB5141E66060094D4C1 /* Snippets.txt in Resources */,
-				95A965D5157FC6FE00925468 /* FastPdfKitFramework.xcconfig in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

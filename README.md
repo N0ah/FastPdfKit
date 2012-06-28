@@ -301,6 +301,10 @@ This guide is also available as [screencast number 4](http://fastpdfkit.com/tuto
 
 ## Changelog
 
+### Update 3.4.2 (June 28, 2012)
+
+* Fixed issue with password protected documents not opening.
+
 ### Update 3.4.1 (June 2, 2012)
 
 * Removed some warnings;
